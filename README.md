@@ -37,7 +37,7 @@ To view the Dashboard click here: [Game Sales Dashboards.xlsx](Game%20Sales%20Da
 
 ## ⚙️ How to Run
 
-Download *.xlsx* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://onedrive.live.com/:x:/g/personal/AB2D013D2CBD952F/EQlvCT2bn1dFoW1a3QZszGYB4adO2njrDItWAKmNYDME9w?resid=AB2D013D2CBD952F!s3d096f099f9b4557a16d5add066ccc66&ithint=file%2Cxlsx&e=P5vZlt&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9BQjJEMDEzRDJDQkQ5NTJGL0VRbHZDVDJibjFkRm9XMWEzUVpzekdZQjRhZE8ybmpyREl0V0FLbU5ZRE1FOXc_ZT1QNXZabHQ) 
+Download *.xlsx* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://1drv.ms/x/c/AB2D013D2CBD952F/EQlvCT2bn1dFoW1a3QZszGYBEeWGeWZIFSZyJqUeUfCw9g?e=wIjRM7&nav=MTVfezgwRjY3ODAxLTlDNTItNDI5OS1BMTk4LTNGNTJDOTY2Nzc5MX0) 
 
 ## 📈 Dashboards Overview
 
