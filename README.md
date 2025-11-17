@@ -55,7 +55,7 @@ The dashboard is built using the *platform* and *publisher* sheets. To make the 
 ### Dashboard 2 - Game Copies Sales 
 
 <p style="text-align:justify;">
-    The second Dashboard works in the same way as the first one, but instead of exploring data by publisher and platform, you can analyze the total number of copies sold by selected genre and year. The left chart presents sales by game genre (action, sports, racing, etc.). The right chart shows sales by region - NA, EU, Japan and other.
+The second Dashboard works in the same way as the first one, but instead of exploring data by publisher and platform, you can analyze the total number of copies sold by selected genre and year. The left chart presents sales by game genre (action, sports, racing, etc.). The right chart shows sales by region - NA, EU, Japan and other.
 
 The Dashboard is built using *genre* and *publisher* sheets. 
     
