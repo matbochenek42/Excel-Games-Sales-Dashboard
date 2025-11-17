@@ -81,7 +81,7 @@ The KPIs in both sheets are based on formulas located in the *kpi* sheet.
     Sales[Year], year
 )
 ```
-**Explanation:** For Dashboard 2, it sums all global sales that meet the conditions — the game genre is Action and the release year is 2013.
+**Explanation:** For Dashboard 2, it sums all global sales that meet the conditions — the game genre is *Action* and the release year is *2013*.
 
 ## ✒️ Author
 
