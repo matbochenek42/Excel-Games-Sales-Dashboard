@@ -72,8 +72,7 @@ The KPIs in both sheets are based on formulas located in the *kpi* sheet.
 - **Data validation** 
 - **Formulas and functions:** COUNT.IF(), COUNT.IFS(), SEQUENCE(), SORT(), IF(), LEN(), MID(), FIND(), UNIQUE(), SUMIFS(), MAXIFS(), X.LOOKUP() 
 
-Example of used function:
-
+**Example of used function:**
 ```
 =SUMIFS(
     Sales[Global_Sales],
@@ -82,6 +81,7 @@ Example of used function:
     Sales[Year], year
 )
 ```
+**Explanation:** For Dashboard 2, it sums all global sales that meet the conditions — the game genre is Action and the release year is 2013.
 
 ## ✒️ Author
 
