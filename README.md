@@ -44,8 +44,9 @@ Download *.xlsx* file or click this link to view the online version: [Game Sales
 ### Dashboard 1 - Top Publishers and Platforms 
 
 <p style="text-align:justify;">
-    You can inspect the data on unique games sold by the selected publisher and platform from the list. Any changes to the values automatically update the charts. The orange bars represent the chosen filters. Results are sorted in ascending order. Below the charts you can find KPIs displaying the top selling game for the chosen publisher and platform.
-
+You can inspect the data on unique games sold by the selected publisher and platform from the list. Any changes to the values automatically update the charts. The orange bars represent the chosen filters. Results are sorted in ascending order. Below the charts you can find KPIs displaying the top selling game for the chosen publisher and platform.
+</p>
+<p style="text-align:justify;">
 The dashboard is built using the *platform* and *publisher* sheets. To make the Dashboard more readable, the publishers and platforms are limited to the top 10 based on global sales (such as Electronic Arts, Activision, Ubisoft as well as PC, PSP, PS2 and so on).      
 </p>
 
@@ -56,9 +57,9 @@ The dashboard is built using the *platform* and *publisher* sheets. To make the 
 
 <p style="text-align:justify;">
 The second Dashboard works in the same way as the first one, but instead of exploring data by publisher and platform, you can analyze the total number of copies sold by selected genre and year. The left chart presents sales by game genre (action, sports, racing, etc.). The right chart shows sales by region - NA, EU, Japan and other.
-
+</p>
+<p style="text-align:justify;">
 The Dashboard is built using *genre* and *publisher* sheets. 
-    
 </p>
 
 ![Dashboard2](images/dashboard2_screen.png)
