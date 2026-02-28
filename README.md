@@ -38,7 +38,7 @@ The dataset was cleaned in the **Power Query**.
 
 ## ⚙️ How to Run
 
-Download *.xlsx* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://1drv.ms/x/c/AB2D013D2CBD952F/IQAJVos1QcQkQ5-rU4TxukIOARVhR5b1PGhstsWlyDa5MHE?e=xQeBiA&nav=MTVfezgwRjY3ODAxLTlDNTItNDI5OS1BMTk4LTNGNTJDOTY2Nzc5MX0) 
+Download *Excel* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://1drv.ms/x/c/AB2D013D2CBD952F/IQAJVos1QcQkQ5-rU4TxukIOARVhR5b1PGhstsWlyDa5MHE?e=xQeBiA&nav=MTVfezgwRjY3ODAxLTlDNTItNDI5OS1BMTk4LTNGNTJDOTY2Nzc5MX0) 
 
 ## 📈 Dashboards Overview
 
