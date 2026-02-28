@@ -22,6 +22,8 @@ To view the Dashboard click here: [Game Sales Dashboards.xlsx](Game%20Sales%20Da
 
 **Data source:** [Kaggle Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) 
 
+The dataset was cleaned in the **Power Query**.
+
 
 ## 🧱 Structure Explanation
 
@@ -36,15 +38,15 @@ To view the Dashboard click here: [Game Sales Dashboards.xlsx](Game%20Sales%20Da
 
 ## ⚙️ How to Run
 
-Download *.xlsx* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://1drv.ms/x/c/AB2D013D2CBD952F/EQlvCT2bn1dFoW1a3QZszGYBEeWGeWZIFSZyJqUeUfCw9g?e=wIjRM7&nav=MTVfezgwRjY3ODAxLTlDNTItNDI5OS1BMTk4LTNGNTJDOTY2Nzc5MX0) 
+Download *.xlsx* file or click this link to view the online version: [Game Sales Dashboards Online Version](https://1drv.ms/x/c/AB2D013D2CBD952F/IQAJVos1QcQkQ5-rU4TxukIOARVhR5b1PGhstsWlyDa5MHE?e=xQeBiA&nav=MTVfezgwRjY3ODAxLTlDNTItNDI5OS1BMTk4LTNGNTJDOTY2Nzc5MX0) 
 
 ## 📈 Dashboards Overview
 
 ### Dashboard 1 - Top Publishers and Platforms 
 
-You can inspect the data on unique games sold by the selected publisher and platform from the list. Any changes to the values automatically update the charts. The orange bars represent the chosen filters. Results are sorted in ascending order. Below the charts you can find metrics displaying the top selling game for the chosen publisher and platform.
+You can inspect the data on unique games sold by the selected publisher and platform from the list. Any changes to the values automatically update the charts. The orange bars represent the chosen filters. Results are sorted in descending order. Below the charts you can find metrics displaying the top selling game for the chosen publisher and platform.
 
-The dashboard is built using the **platform** and **publisher** sheets. To make the Dashboard more readable, the publishers and platforms are limited to the top 10 based on global sales (such as Electronic Arts, Activision, Ubisoft as well as PC, PSP, PS2 and so on).      
+The dashboard is built using the **platform** and **publisher** sheets. To make the Dashboard more readable, the publishers and platforms are limited to the top 10 based on global sales (such as Electronic Arts, Activision, Ubisoft for the publishers and PC, PSP, PS2 for the platforms).      
 
 
 ![Dashboard1](images/dashboard1_screen.png)
@@ -67,16 +69,16 @@ The metrics in both sheets are based on formulas located in the **metric** sheet
 - **Data validation** 
 - **Formulas and functions:** COUNT.IF(), COUNT.IFS(), SEQUENCE(), SORT(), IF(), LEN(), MID(), FIND(), UNIQUE(), SUMIFS(), MAXIFS(), X.LOOKUP() 
 
-**Example of used function:**
+**Sample function:**
 ```
 =SUMIFS(
     Sales[Global_Sales],
     Sales[Genre], B2,
-    Sales[Year], "<>" & "N/A",
+    Sales[Year], "<>" & "",
     Sales[Year], year
 )
 ```
-**Explanation:** For Dashboard 2, it sums all global sales that meet the conditions — the game genre is *Action* and the release year is *2013*.
+**Explanation:** For Dashboard 2, it sums all global sales that meet the conditions for the chosen game genre and the release year.
 
 ## ✒️ Author
 
